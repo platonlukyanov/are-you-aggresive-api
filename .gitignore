@@ -1,0 +1,6 @@
+data.csv
+pickles
+env
+*.ipynb
+.idea
+__pycache__
